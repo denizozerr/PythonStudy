@@ -15,7 +15,7 @@ kelime=len(ad)
 print(kelime)
 #%%
 
-name = "Deniz"
+name = "Yunus"
 length = len(name)
 print(length)
 #%%
