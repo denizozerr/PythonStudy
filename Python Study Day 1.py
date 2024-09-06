@@ -23,3 +23,10 @@ print(length)
 glass1 = input("1. bardaktaki içeceği yazın: ")
 glass2 = input("2. bardaktaki içeceği yazın: ")
 print(glass1 + " ve " + glass2)
+
+#%%
+print("Müzik grubu ismi üreticiye hoşgeldiniz")
+sehir_ismi=input("Bulunduğunuz Şehrin İsmini Yazın: ")
+hayvan_ismi=input("İlk Evcil Hayvanınızın ismini Yazın: ")
+
+print("Grubunuzun ismi: "+sehir_ismi+hayvan_ismi)
